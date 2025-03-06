@@ -1,0 +1,23 @@
+[
+  {
+    "id": "3f6e0c32-fc08-40c3-b0af-0d6d329b9299",
+    "productId": "7f064a70-813a-4e15-95e3-9cb6e612f5e0",
+    "timestamp": "2025-02-24T12:36:32.778Z",
+    "rating": 5,
+    "message": "Amazing product!"
+  },
+  {
+    "id": "e178f4ab-bd60-4300-8ecc-5445e5ae6d31",
+    "productId": "91809d8e-9686-4acc-8403-4fdb4375c435",
+    "timestamp": "2025-03-06T17:01:27.848Z",
+    "rating": 5,
+    "message": "Amazing product!"
+  },
+  {
+    "id": 1,
+    "productId": 1,
+    "timestamp": "2025-03-06T17:08:03.597Z",
+    "rating": 5,
+    "message": "Super comfortable and elegant!"
+  }
+]

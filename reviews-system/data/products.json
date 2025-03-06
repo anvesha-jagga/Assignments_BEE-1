@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7f064a70-813a-4e15-95e3-9cb6e612f5e0",
+    "name": "Laptop",
+    "description": "A high-performance laptop.",
+    "averageRating": 5
+  },
+  {
+    "id": "91809d8e-9686-4acc-8403-4fdb4375c435",
+    "name": "Product 1",
+    "description": "This is a test product",
+    "averageRating": 5
+  },
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "This is a test product",
+    "averageRating": 5
+  },
+  {
+    "id": 1,
+    "name": "Luxury Sofa",
+    "description": "A high-quality leather sofa with premium comfort.",
+    "averageRating": 0
+  }
+]
